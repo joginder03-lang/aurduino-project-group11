@@ -1,2 +1,9 @@
 # aurduino-project-group11
-Arduino Project 1 involves creating and programming an LED blinking circuit using Arduino Uno, a breadboard, a resistor, and an LED in Tinkercad. Each student must build the circuit, write the code, and submit the project through Blackboard with a PDF and GitHub link.
+Arduino Project 1 involves creating and programming an LED blinking circuit using Arduino Uno, a breadboard, a resistor, and an LED in Tinkercad. 
+
+## Course 
+Internet of Things - Arduino - 207
+
+## Members of Group-11
+Rachna Sharma (200597084)
+Joginder Singh (200604267)
